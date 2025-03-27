@@ -1,0 +1,8 @@
+Albarán del Pedido
+ID: P02
+Estado: ENTREGADO
+Productos:
+ - Producto1, Precio: 5,60 EUR
+ - Producto2, Precio: 3,70 EUR
+ - Producto3, Precio: 7,00 EUR
+Total: 16,30 EUR
