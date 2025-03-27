@@ -27,7 +27,7 @@ public class Pedido {
         if(producto != null && cantidadProductos < productos.length) {
             productos[cantidadProductos] = producto;
             cantidadProductos++;
-            System.out.println("Producto agregado con exito");
+            System.out.println("Producto agregado con éxito");
         } else {
             System.out.println("Hubo un problema al agregar el producto");
         }
