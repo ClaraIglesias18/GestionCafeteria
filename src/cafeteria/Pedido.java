@@ -62,7 +62,7 @@ public class Pedido {
         File archivo = new File("albaranes", "albaran_" + this.idPedido + ".txt");
 
         if (!archivo.exists()) {
-            System.out.println("El albarán no se encontró en el directorio 'albaranes'. Verifica si fue generado correctamente.");
+            System.out.println("El albarán no se encontro en el directorio 'albaranes'. Verifica si fue generado correctamente.");
             return;
         }
 
